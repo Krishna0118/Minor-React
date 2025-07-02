@@ -1,0 +1,10 @@
+.infoBox {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.weatherCard {
+    display: flex;
+    justify-content: center;
+}
